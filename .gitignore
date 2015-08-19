@@ -58,3 +58,5 @@ target/
 
 DSChallenge.pdf
 data
+
+.ipynb_checkpoints
