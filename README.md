@@ -2,21 +2,19 @@
 
 You will need following packages 
 
-graphlab-create==1.5.2
-
-matplotlib
-
-scipy
-
-pandas
-
-numpy
+- graphlab-create==1.5.2
+- matplotlib
+- scipy
+- pandas
+- numpy
 
 Create a data folder in the dir where the notebooks are run and copy the csv file in this data folder.
 
 Start Ipython
 
 $ipython notebook --pylab inline 
+
+Notebooks
 
 - exploratory-1.ipynb
 
