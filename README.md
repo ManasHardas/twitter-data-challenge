@@ -1,10 +1,15 @@
 # twitter-data-challenge
 
 You will need following packages 
+
 graphlab-create==1.5.2
+
 matplotlib
+
 scipy
+
 pandas
+
 numpy
 
 Create a data folder in the dir where the notebooks are run and copy the csv file in this data folder.
