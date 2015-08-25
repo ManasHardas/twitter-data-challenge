@@ -27,3 +27,7 @@ basic statistical analysis to segment different levels of user activity based on
 - activity-classifier.ipynb
 
 this notebook contains steps to build a boosted tree classifier on the acitivity data
+
+- svm-activity-classifier.ipynb
+
+construct a support vector machine classifier for activity based on engagement metrics data
